@@ -62,14 +62,14 @@ sudo systemctl start pulse-sentinel
 
 ### 🧠 How the Logic Works (The 3/6/9 Protocol)
 
-If you are new to the Sentinel, the logic is broken down into two simple stages that repeat every 45 seconds.\
+If you are new to the Sentinel, the logic is broken down into two simple stages that repeat every 45 seconds.
 
 Stage 1: The Pulse Check
-The script connects to your email accounts (can be 1 or 15), and looks for new "Pulse" emails (emails that have come from a particular mail direction). If it finds one, it updates a local "Heartbeat" file with the current time. This is the Proof of Life.\
+The script connects to your "monitoring" email accounts (can be 1 or 15, different providers too), and looks for new "Pulse" emails (emails that haven't been "open" in the IMAP protocol sense). If it finds one, it updates a local "Heartbeat" file with the current system time. This is the Proof of Life.
 
 Stage 2: The Escalation Ladder
 
-The Sentinel calculates the "Age" of that heartbeat (Current Time minus Last Heartbeat). If the age exceeds your threshold (e.g., 10 minutes), it begins climbing the ladder:
+The Sentinel calculates the "Age" of that "Heartbeat" file (Current Time minus Last Heartbeat). If the age exceeds your threshold (10 minutes by default), it begins climbing the ladder:
 
 | Time Since Failure | State | Severity | Intent |
 | :--- | :--- | :--- | :--- |
@@ -78,9 +78,13 @@ The Sentinel calculates the "Age" of that heartbeat (Current Time minus Last Hea
 | **6 - 9 Minutes** | `RED` | Error | High priority. Significant downtime detected. |
 | **9+ Minutes** | `CRITICAL` | Critical | Maximum alert level. Requires immediate intervention. |
 
+Stage Reset: The Problem it's fixed
+
+When a new mail arrives to some of the configured IMAP mail accounts, monitor.py will update the last time of a mail from that specific mail account arriving; if the monitoring state corresponding to that account was `YELLOW` or `RED`, the monitoring state of that account will automatically switch back to `OK` again, repeating the system known as 'dead man's switch' cycle.
+
 The "Anti-Spam" Rule: The Sentinel only logs when the state changes (e.g., when moving from Yellow to Red). It will not fill your logs with repetitive errors.
 
-🪵 Log Management
+### 🪵 Log Management
 
   [IMAP] Tags: Show when the script is talking to the network.
 
