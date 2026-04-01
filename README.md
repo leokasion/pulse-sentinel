@@ -11,7 +11,7 @@ It is highly recommended to run this in a virtual environment to avoid conflicts
 
 ```
 # Navigate to your project folder
-cd /home/okasion/apppulsetrk
+cd /home/user/pulse-sentinel
 
 # Create the virtual environment
 python3 -m venv venv
@@ -23,7 +23,7 @@ source venv/bin/activate
 pip install imap-tools
 ```
 
-2. Configuration
+### 2. Configuration
 
 Open monitor.py in Vim and update the ACCOUNTS list with your IMAP credentials and the PULSE_DIR path.
 ⚙️ Service Deployment (Systemd)
@@ -42,17 +42,17 @@ Description=Pulse Sentinel Unified Daemon
 After=network.target
 
 [Service]
-User=okasion
-WorkingDirectory=/home/okasion/apppulsetrk
-ExecStart=/home/okasion/apppulsetrk/venv/bin/python3 monitor.py
+User=user
+WorkingDirectory=/home/user/pulse-sentinel
+ExecStart=/home/user/pulse-sentinel/venv/bin/python3 monitor.py
 Restart=always
-StandardOutput=append:/home/okasion/apppulsetrk/monitor.log
-StandardError=append:/home/okasion/apppulsetrk/monitor.log
+StandardOutput=append:/home/user/pulse-sentinel/monitor.log
+StandardError=append:/home/user/pulse-sentinel/monitor.log
 
 [Install]
 WantedBy=multi-user.target
 ```
-3. Enable and Start
+### 3. Enable and Start
 
 ```
 sudo systemctl daemon-reload
@@ -60,7 +60,7 @@ sudo systemctl enable pulse-sentinel
 sudo systemctl start pulse-sentinel
 ```
 
-🧠 How the Logic Works (The 3/6/9 Protocol)
+### 🧠 How the Logic Works (The 3/6/9 Protocol)
 
 If you are new to the Sentinel, the logic is broken down into two simple stages that repeat every 45 seconds.
 Stage 1: The Pulse Check
@@ -70,11 +70,12 @@ Stage 2: The Escalation Ladder
 
 The Sentinel calculates the "Age" of that heartbeat (Current Time minus Last Heartbeat). If the age exceeds your threshold (e.g., 10 minutes), it begins climbing the ladder:
 
-Time Since Failure	State	Severity	Intent		
-0 - 3 Minutes	OK	Normal	Silence. We assume transient network latency.		
-3 - 6 Minutes	YELLOW	Warning	The first alert. A "heads up" of potential issues.		
-6 - 9 Minutes	RED	Error	High priority. Significant downtime detected.		
-9+ Minutes	CRITICAL	Critical	Maximum alert level. Requires immediate intervention.		
+| Time Since Failure | State | Severity | Intent |
+| :--- | :--- | :--- | :--- |
+| **0 - 3 Minutes** | `OK` | Normal | Silence. We assume transient network latency. |
+| **3 - 6 Minutes** | `YELLOW` | Warning | The first alert. A "heads up" of potential issues. |
+| **6 - 9 Minutes** | `RED` | Error | High priority. Significant downtime detected. |
+| **9+ Minutes** | `CRITICAL` | Critical | Maximum alert level. Requires immediate intervention. |
 
 The "Anti-Spam" Rule: The Sentinel only logs when the state changes (e.g., when moving from Yellow to Red). It will not fill your logs with repetitive errors.
 
