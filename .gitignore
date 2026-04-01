@@ -1,0 +1,13 @@
+credentials.json
+token.json
+venv/
+__pycache__/
+pulses/*
+!pulses/.gitkeep
+pulse.log
+pulse_report.csv
+IMAP_tracker.py
+pulse_tracker.py
+apppulsetrk.code-workspace
+settings.json
+filters.txt

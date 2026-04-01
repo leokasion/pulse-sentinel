@@ -1,0 +1,694 @@
+2026-03-30 16:01:40 [INFO] Monitor Daemon started. Staleness Threshold: 600s
+2026-03-30 16:01:40 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:01:40 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 2324s
+2026-03-30 16:01:40 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 2328s
+2026-03-30 16:02:10 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:02:10 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 2354s
+2026-03-30 16:02:10 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 2358s
+2026-03-30 16:02:40 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:02:40 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 2384s
+2026-03-30 16:02:40 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 2388s
+2026-03-30 16:03:10 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:03:10 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 2414s
+2026-03-30 16:03:10 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 2418s
+2026-03-30 16:03:40 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:03:40 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 2444s
+2026-03-30 16:03:40 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 2448s
+2026-03-30 16:04:10 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:04:10 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 2474s
+2026-03-30 16:04:10 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 2478s
+2026-03-30 16:04:40 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:04:40 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 2504s
+2026-03-30 16:04:40 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 2508s
+2026-03-30 16:05:10 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:05:10 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 2534s
+2026-03-30 16:05:10 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 2538s
+2026-03-30 16:05:40 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:05:40 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 2564s
+2026-03-30 16:05:40 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 2568s
+2026-03-30 16:06:10 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:06:10 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 2594s
+2026-03-30 16:06:10 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 2598s
+2026-03-30 16:06:40 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:06:40 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 2624s
+2026-03-30 16:06:40 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 2628s
+2026-03-30 16:07:10 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:07:10 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 2654s
+2026-03-30 16:07:10 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 2658s
+2026-03-30 16:07:40 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:07:40 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 2684s
+2026-03-30 16:07:40 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 2688s
+2026-03-30 16:08:10 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:08:10 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 2714s
+2026-03-30 16:08:10 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 2718s
+2026-03-30 16:08:40 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:08:40 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 2744s
+2026-03-30 16:08:40 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 2748s
+2026-03-30 16:09:10 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:09:10 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 2774s
+2026-03-30 16:09:10 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 2778s
+2026-03-30 16:09:40 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:09:40 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 2804s
+2026-03-30 16:09:40 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 2808s
+2026-03-30 16:10:10 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:10:10 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 2834s
+2026-03-30 16:10:10 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 2838s
+2026-03-30 16:10:40 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:10:40 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 2864s
+2026-03-30 16:10:40 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 2868s
+2026-03-30 16:11:10 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:11:10 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 2894s
+2026-03-30 16:11:10 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 2898s
+2026-03-30 16:11:40 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:11:40 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 2924s
+2026-03-30 16:11:40 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 2928s
+2026-03-30 16:12:10 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:12:10 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 2954s
+2026-03-30 16:12:10 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 2958s
+2026-03-30 16:12:40 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:12:40 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 2984s
+2026-03-30 16:12:40 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 2988s
+2026-03-30 16:13:10 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:13:10 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 3014s
+2026-03-30 16:13:10 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 3018s
+2026-03-30 16:13:40 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:13:40 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 3044s
+2026-03-30 16:13:40 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 3048s
+2026-03-30 16:14:10 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:14:10 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 3074s
+2026-03-30 16:14:10 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 3078s
+2026-03-30 16:14:40 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:14:40 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 3104s
+2026-03-30 16:14:40 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 3108s
+2026-03-30 16:15:10 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:15:10 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 3134s
+2026-03-30 16:15:10 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 3138s
+2026-03-30 16:15:40 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:15:40 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 3164s
+2026-03-30 16:15:40 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 3168s
+2026-03-30 16:16:10 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:16:10 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 3194s
+2026-03-30 16:16:10 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 3198s
+2026-03-30 16:16:40 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:16:40 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 3224s
+2026-03-30 16:16:40 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 3228s
+2026-03-30 16:17:10 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:17:10 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 3254s
+2026-03-30 16:17:10 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 3258s
+2026-03-30 16:17:40 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:17:40 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 3284s
+2026-03-30 16:17:40 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 3288s
+2026-03-30 16:18:10 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:18:10 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 3314s
+2026-03-30 16:18:10 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 3318s
+2026-03-30 16:18:40 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:18:40 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 3344s
+2026-03-30 16:18:40 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 3348s
+2026-03-30 16:19:10 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:19:10 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 3374s
+2026-03-30 16:19:10 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 3378s
+2026-03-30 16:19:40 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:19:40 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 3404s
+2026-03-30 16:19:40 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 3408s
+2026-03-30 16:20:10 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:20:10 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 3434s
+2026-03-30 16:20:10 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 3438s
+2026-03-30 16:20:40 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:20:40 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 3464s
+2026-03-30 16:20:40 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 3468s
+2026-03-30 16:21:10 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:21:10 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 3494s
+2026-03-30 16:21:10 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 3498s
+2026-03-30 16:21:40 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:21:40 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 3524s
+2026-03-30 16:21:40 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 3528s
+2026-03-30 16:22:10 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:22:10 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 3554s
+2026-03-30 16:22:10 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 3558s
+2026-03-30 16:22:40 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:22:40 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 3584s
+2026-03-30 16:22:40 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 3588s
+2026-03-30 16:23:10 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:23:10 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 3614s
+2026-03-30 16:23:10 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 3618s
+2026-03-30 16:23:40 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:23:40 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 3644s
+2026-03-30 16:23:40 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 3648s
+2026-03-30 16:24:10 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:24:10 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 3674s
+2026-03-30 16:24:10 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 3678s
+2026-03-30 16:24:40 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:24:40 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 3704s
+2026-03-30 16:24:40 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 3708s
+2026-03-30 16:25:10 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:25:10 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 3734s
+2026-03-30 16:25:10 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 3738s
+2026-03-30 16:25:40 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:25:40 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 3764s
+2026-03-30 16:25:40 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 3768s
+2026-03-30 16:26:10 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:26:10 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 3794s
+2026-03-30 16:26:10 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 3798s
+2026-03-30 16:26:40 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:26:40 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 3824s
+2026-03-30 16:26:40 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 3828s
+2026-03-30 16:27:10 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:27:10 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 3854s
+2026-03-30 16:27:10 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 3858s
+2026-03-30 16:27:40 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:27:40 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 3884s
+2026-03-30 16:27:40 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 3888s
+2026-03-30 16:28:10 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:28:10 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 3914s
+2026-03-30 16:28:10 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 3918s
+2026-03-30 16:28:40 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:28:40 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 3944s
+2026-03-30 16:28:40 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 3948s
+2026-03-30 16:29:10 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:29:10 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 3974s
+2026-03-30 16:29:10 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 3978s
+2026-03-30 16:29:40 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:29:40 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 4004s
+2026-03-30 16:29:40 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 4008s
+2026-03-30 16:30:10 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:30:10 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 4034s
+2026-03-30 16:30:10 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 4038s
+2026-03-30 16:30:40 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:30:40 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 4064s
+2026-03-30 16:30:40 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 4068s
+2026-03-30 16:31:10 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:31:10 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 4094s
+2026-03-30 16:31:10 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 4098s
+2026-03-30 16:31:40 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:31:40 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 4124s
+2026-03-30 16:31:40 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 4128s
+2026-03-30 16:32:10 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:32:10 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 4154s
+2026-03-30 16:32:10 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 4158s
+2026-03-30 16:32:40 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:32:40 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 4184s
+2026-03-30 16:32:40 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 4188s
+2026-03-30 16:33:10 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:33:10 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 4214s
+2026-03-30 16:33:10 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 4218s
+2026-03-30 16:33:40 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:33:40 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 4244s
+2026-03-30 16:33:40 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 4248s
+2026-03-30 16:34:10 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:34:10 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 4274s
+2026-03-30 16:34:10 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 4278s
+2026-03-30 16:34:40 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:34:40 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 4304s
+2026-03-30 16:34:40 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 4308s
+2026-03-30 16:35:10 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:35:10 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 4334s
+2026-03-30 16:35:10 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 4338s
+2026-03-30 16:35:40 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:35:40 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 4364s
+2026-03-30 16:35:40 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 4368s
+2026-03-30 16:36:10 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:36:10 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 4394s
+2026-03-30 16:36:10 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 4398s
+2026-03-30 16:36:40 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:36:40 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 4424s
+2026-03-30 16:36:40 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 4428s
+2026-03-30 16:37:10 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:37:10 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 4454s
+2026-03-30 16:37:10 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 4458s
+2026-03-30 16:37:40 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:37:40 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 4484s
+2026-03-30 16:37:40 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 4488s
+2026-03-30 16:38:10 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:38:10 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 4514s
+2026-03-30 16:38:10 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 4518s
+2026-03-30 16:38:40 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:38:40 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 4544s
+2026-03-30 16:38:40 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 4548s
+2026-03-30 16:39:10 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:39:10 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 4574s
+2026-03-30 16:39:10 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 4578s
+2026-03-30 16:39:40 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:39:40 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 4604s
+2026-03-30 16:39:40 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 4608s
+2026-03-30 16:40:10 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:40:10 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 4634s
+2026-03-30 16:40:10 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 4638s
+2026-03-30 16:40:40 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:40:40 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 4664s
+2026-03-30 16:40:40 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 4668s
+2026-03-30 16:41:10 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:41:10 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 4694s
+2026-03-30 16:41:10 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 4698s
+2026-03-30 16:41:40 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:41:40 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 4724s
+2026-03-30 16:41:40 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 4728s
+2026-03-30 16:42:10 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:42:10 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 4754s
+2026-03-30 16:42:10 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 4758s
+2026-03-30 16:42:40 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:42:40 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 4784s
+2026-03-30 16:42:40 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 4788s
+2026-03-30 16:43:10 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:43:10 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 4814s
+2026-03-30 16:43:10 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 4818s
+2026-03-30 16:43:40 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:43:40 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 4844s
+2026-03-30 16:43:40 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 4848s
+2026-03-30 16:44:10 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:44:10 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 4874s
+2026-03-30 16:44:10 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 4878s
+2026-03-30 16:44:40 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:44:40 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 4904s
+2026-03-30 16:44:40 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 4908s
+2026-03-30 16:45:10 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:45:10 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 4934s
+2026-03-30 16:45:10 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 4938s
+2026-03-30 16:45:40 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:45:40 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 4964s
+2026-03-30 16:45:40 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 4968s
+2026-03-30 16:46:10 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:46:10 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 4994s
+2026-03-30 16:46:10 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 4998s
+2026-03-30 16:46:40 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:46:40 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 5024s
+2026-03-30 16:46:40 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 5028s
+2026-03-30 16:47:10 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:47:10 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 5054s
+2026-03-30 16:47:10 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 5058s
+2026-03-30 16:47:40 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:47:40 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 5084s
+2026-03-30 16:47:40 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 5088s
+2026-03-30 16:48:10 [INFO] --- Starting Monitoring Scan ---
+2026-03-30 16:48:10 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 5114s
+2026-03-30 16:48:10 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 5118s
+2026-03-31 12:09:39 [INFO] Monitor Daemon started. Staleness Threshold: 600s
+2026-03-31 12:09:39 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 74804s
+2026-03-31 12:09:39 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 74808s
+2026-03-31 12:10:24 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 74849s
+2026-03-31 12:10:24 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 74853s
+2026-03-31 12:11:09 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 74894s
+2026-03-31 12:11:09 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 74898s
+2026-03-31 12:11:54 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 74939s
+2026-03-31 12:11:54 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 74943s
+2026-03-31 12:12:39 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 74984s
+2026-03-31 12:12:39 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 74988s
+2026-03-31 12:13:24 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 75029s
+2026-03-31 12:13:24 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 75033s
+2026-03-31 12:14:09 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 75074s
+2026-03-31 12:14:09 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 75078s
+2026-03-31 12:14:54 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 75119s
+2026-03-31 12:14:54 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 75123s
+2026-03-31 12:15:39 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 75164s
+2026-03-31 12:15:39 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 75168s
+2026-03-31 12:16:24 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 75209s
+2026-03-31 12:16:24 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 75213s
+2026-03-31 12:17:09 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 75254s
+2026-03-31 12:17:09 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 75258s
+2026-03-31 12:17:54 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 75299s
+2026-03-31 12:17:54 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 75303s
+2026-03-31 12:18:39 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 75344s
+2026-03-31 12:18:39 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 75348s
+2026-03-31 12:19:24 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 75389s
+2026-03-31 12:19:24 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 75393s
+2026-03-31 12:20:09 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 75434s
+2026-03-31 12:20:09 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 75438s
+2026-03-31 12:20:54 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 75479s
+2026-03-31 12:20:54 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 75483s
+2026-03-31 12:21:39 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 75524s
+2026-03-31 12:21:39 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 75528s
+2026-03-31 12:22:24 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 75569s
+2026-03-31 12:22:24 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 75573s
+2026-03-31 12:23:09 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 75614s
+2026-03-31 12:23:09 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 75618s
+2026-03-31 12:23:54 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 75659s
+2026-03-31 12:23:54 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 75663s
+2026-03-31 12:24:39 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 75704s
+2026-03-31 12:24:39 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 75708s
+2026-03-31 12:25:24 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 75749s
+2026-03-31 12:25:24 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 75753s
+2026-03-31 12:26:09 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 75794s
+2026-03-31 12:26:09 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 75798s
+2026-03-31 12:26:54 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 75839s
+2026-03-31 12:26:54 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 75843s
+2026-03-31 12:27:39 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 75884s
+2026-03-31 12:27:39 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 75888s
+2026-03-31 12:28:24 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 75929s
+2026-03-31 12:28:24 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 75933s
+2026-03-31 12:29:09 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 75974s
+2026-03-31 12:29:09 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 75978s
+2026-03-31 12:29:54 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 76019s
+2026-03-31 12:29:54 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 76023s
+2026-03-31 12:30:39 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 76064s
+2026-03-31 12:30:39 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 76068s
+2026-03-31 12:31:24 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 76109s
+2026-03-31 12:31:24 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 76113s
+2026-03-31 12:31:49 [INFO] Monitor Daemon started. Staleness Threshold: 600s
+2026-03-31 12:31:49 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 76134s
+2026-03-31 12:31:49 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 76138s
+2026-03-31 12:32:34 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 76179s
+2026-03-31 12:32:34 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 76183s
+2026-03-31 12:33:19 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 76224s
+2026-03-31 12:33:19 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 76228s
+2026-03-31 12:34:04 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 76269s
+2026-03-31 12:34:04 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 76273s
+2026-03-31 12:34:49 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 76314s
+2026-03-31 12:34:49 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 76318s
+2026-03-31 12:34:49 [WARNING] 3m silence reached. Standby monitoring.
+2026-03-31 12:36:13 [INFO] Monitor Daemon started. Escalation: 3/6/9m logic.
+2026-03-31 12:36:13 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 76398s
+2026-03-31 12:36:13 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 76401s
+2026-03-31 12:36:58 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 76443s
+2026-03-31 12:36:58 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 76446s
+2026-03-31 12:37:43 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 76488s
+2026-03-31 12:37:43 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 76491s
+2026-03-31 12:38:28 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 76533s
+2026-03-31 12:38:28 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 76536s
+2026-03-31 12:39:13 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 76578s
+2026-03-31 12:39:13 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 76581s
+2026-03-31 12:39:13 [WARNING] Account [latvia_pulse] 3m silence reached.
+2026-03-31 12:39:13 [WARNING] Account [gmail_pulse] 3m silence reached.
+2026-03-31 12:39:58 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 76623s
+2026-03-31 12:39:58 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 76626s
+2026-03-31 12:40:43 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 76668s
+2026-03-31 12:40:43 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 76671s
+2026-03-31 12:41:28 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 76713s
+2026-03-31 12:41:28 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 76716s
+2026-03-31 12:42:13 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 76758s
+2026-03-31 12:42:13 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 76761s
+2026-03-31 12:42:13 [ERROR] Account [latvia_pulse] 6m silence reached.
+2026-03-31 12:42:13 [ERROR] Account [gmail_pulse] 6m silence reached.
+2026-03-31 12:42:58 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 76803s
+2026-03-31 12:42:58 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 76806s
+2026-03-31 12:43:43 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 76848s
+2026-03-31 12:43:43 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 76851s
+2026-03-31 12:44:28 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 76893s
+2026-03-31 12:44:28 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 76896s
+2026-03-31 12:45:13 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 76938s
+2026-03-31 12:45:13 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 76941s
+2026-03-31 12:45:13 [CRITICAL] Account [latvia_pulse] 9m silence reached.
+2026-03-31 12:45:13 [CRITICAL] Account [gmail_pulse] 9m silence reached.
+2026-03-31 12:45:58 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 76983s
+2026-03-31 12:45:58 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 76986s
+2026-03-31 12:46:43 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 77028s
+2026-03-31 12:46:43 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 77031s
+2026-03-31 12:47:28 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 77073s
+2026-03-31 12:47:28 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 77076s
+2026-03-31 12:48:13 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 77118s
+2026-03-31 12:48:13 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 77121s
+2026-03-31 12:48:58 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 77163s
+2026-03-31 12:48:58 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 77166s
+2026-03-31 12:49:43 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 77208s
+2026-03-31 12:49:43 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 77211s
+2026-03-31 12:50:28 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 77253s
+2026-03-31 12:50:28 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 77256s
+2026-03-31 12:51:13 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 77298s
+2026-03-31 12:51:13 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 77301s
+2026-03-31 12:51:58 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 77343s
+2026-03-31 12:51:58 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 77346s
+2026-03-31 12:52:33 [INFO] Manual stop. Cleaning up and exiting.
+2026-03-31 12:57:27 [INFO] Monitor Daemon started. Escalation: 3/6/9m logic.
+2026-03-31 12:57:27 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 77672s
+2026-03-31 12:57:27 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 77676s
+2026-03-31 12:57:30 [INFO] Manual stop. Cleaning up and exiting.
+/usr/bin/python3: can't open file '/home/okasion/apppulsetrkmonitor.py': [Errno 2] No such file or directory
+/usr/bin/python3: can't open file '/home/okasion/apppulsetrkmonitor.py': [Errno 2] No such file or directory
+/usr/bin/python3: can't open file '/home/okasion/apppulsetrkmonitor.py': [Errno 2] No such file or directory
+/usr/bin/python3: can't open file '/home/okasion/apppulsetrkmonitor.py': [Errno 2] No such file or directory
+/usr/bin/python3: can't open file '/home/okasion/apppulsetrkmonitor.py': [Errno 2] No such file or directory
+2026-03-31 13:01:11 [INFO] Monitor Daemon started. Escalation: 3/6/9m logic.
+2026-03-31 13:01:11 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 77896s
+2026-03-31 13:01:11 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 77900s
+2026-03-31 13:01:56 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 77941s
+2026-03-31 13:01:56 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 77945s
+2026-03-31 13:02:41 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 77986s
+2026-03-31 13:02:41 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 77990s
+2026-03-31 13:03:26 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 78031s
+2026-03-31 13:03:26 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 78035s
+2026-03-31 13:04:11 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 78076s
+2026-03-31 13:04:11 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 78080s
+2026-03-31 13:04:11 [WARNING] Account [latvia_pulse] 3m silence reached.
+2026-03-31 13:04:11 [WARNING] Account [gmail_pulse] 3m silence reached.
+2026-03-31 13:04:56 [ERROR] !!! ALERT !!! Account [latvia_pulse] is STALE. Age: 78121s
+2026-03-31 13:04:56 [ERROR] !!! ALERT !!! Account [gmail_pulse] is STALE. Age: 78125s
+2026-03-31 13:05:36 [INFO] Monitor Daemon started. Escalation: 3/6/9m logic.
+2026-03-31 13:08:36 [WARNING] Account [latvia_pulse] 3m silence reached.
+2026-03-31 13:08:36 [WARNING] Account [gmail_pulse] 3m silence reached.
+2026-03-31 13:11:36 [ERROR] Account [latvia_pulse] 6m silence reached.
+2026-03-31 13:11:36 [ERROR] Account [gmail_pulse] 6m silence reached.
+2026-03-31 13:14:36 [CRITICAL] Account [latvia_pulse] 9m silence reached.
+2026-03-31 13:14:36 [CRITICAL] Account [gmail_pulse] 9m silence reached.
+2026-04-01 05:17:34,519 [Monitor ] [INFO] Unified Monitor & Tracker Daemon started.
+2026-04-01 05:17:34,519 [IMAP    ] [INFO] --- Starting IMAP Check Cycle ---
+2026-04-01 05:17:41,991 [IMAP    ] [INFO] [gmail_pulse] Received 2 new pulse(s).
+2026-04-01 05:17:41,992 [IMAP    ] [INFO] Heartbeat updated for gmail_pulse
+2026-04-01 05:17:46,663 [IMAP    ] [INFO] [latvia_pulse] Received 2 new pulse(s).
+2026-04-01 05:17:46,663 [IMAP    ] [INFO] Heartbeat updated for latvia_pulse
+2026-04-01 05:17:47,957 [Monitor ] [INFO] STATUS OK: [latvia_pulse] active. Age: 1s
+2026-04-01 05:17:47,957 [Monitor ] [INFO] STATUS OK: [gmail_pulse] active. Age: 5s
+2026-04-01 05:17:51 [INFO] STATUS OK: [latvia_pulse] active. Age: 4s
+2026-04-01 05:17:51 [INFO] STATUS OK: [gmail_pulse] active. Age: 9s
+2026-04-01 05:17:51 [INFO] RECOVERY: Account [latvia_pulse] pulse detected.
+2026-04-01 05:17:51 [INFO] RECOVERY: Account [gmail_pulse] pulse detected.
+2026-04-01 05:18:28,465 [Monitor ] [INFO] Manual stop. Cleaning up and exiting.
+2026-04-01 05:18:36 [INFO] STATUS OK: [latvia_pulse] active. Age: 49s
+2026-04-01 05:18:36 [INFO] STATUS OK: [gmail_pulse] active. Age: 54s
+Traceback (most recent call last):
+  File "/home/okasion/apppulsetrk/monitor.py", line 4, in <module>
+    from imap_tools import MailBox, AND
+ModuleNotFoundError: No module named 'imap_tools'
+Traceback (most recent call last):
+  File "/home/okasion/apppulsetrk/monitor.py", line 4, in <module>
+    from imap_tools import MailBox, AND
+ModuleNotFoundError: No module named 'imap_tools'
+Traceback (most recent call last):
+  File "/home/okasion/apppulsetrk/monitor.py", line 4, in <module>
+    from imap_tools import MailBox, AND
+ModuleNotFoundError: No module named 'imap_tools'
+Traceback (most recent call last):
+  File "/home/okasion/apppulsetrk/monitor.py", line 4, in <module>
+    from imap_tools import MailBox, AND
+ModuleNotFoundError: No module named 'imap_tools'
+Traceback (most recent call last):
+  File "/home/okasion/apppulsetrk/monitor.py", line 4, in <module>
+    from imap_tools import MailBox, AND
+ModuleNotFoundError: No module named 'imap_tools'
+2026-04-01 05:24:45,200 [Monitor ] [INFO] Unified Monitor & Tracker Daemon started.
+2026-04-01 05:24:45,200 [IMAP    ] [INFO] --- Starting IMAP Check Cycle ---
+2026-04-01 05:24:49,354 [Monitor ] [INFO] STATUS OK: [latvia_pulse] active. Age: 422s
+2026-04-01 05:24:49,354 [Monitor ] [INFO] STATUS OK: [gmail_pulse] active. Age: 427s
+2026-04-01 05:25:34,355 [IMAP    ] [INFO] --- Starting IMAP Check Cycle ---
+2026-04-01 05:25:38,690 [Monitor ] [INFO] STATUS OK: [latvia_pulse] active. Age: 472s
+2026-04-01 05:25:38,690 [Monitor ] [INFO] STATUS OK: [gmail_pulse] active. Age: 476s
+2026-04-01 05:26:23,691 [IMAP    ] [INFO] --- Starting IMAP Check Cycle ---
+2026-04-01 05:26:28,111 [Monitor ] [INFO] STATUS OK: [latvia_pulse] active. Age: 521s
+2026-04-01 05:26:28,111 [Monitor ] [INFO] STATUS OK: [gmail_pulse] active. Age: 526s
+2026-04-01 05:27:13,112 [IMAP    ] [INFO] --- Starting IMAP Check Cycle ---
+2026-04-01 05:27:17,512 [Monitor ] [INFO] STATUS OK: [latvia_pulse] active. Age: 570s
+2026-04-01 05:27:17,512 [Monitor ] [INFO] STATUS OK: [gmail_pulse] active. Age: 575s
+2026-04-01 05:28:02,513 [IMAP    ] [INFO] --- Starting IMAP Check Cycle ---
+2026-04-01 05:28:06,701 [Monitor ] [DEBUG] STALE Check: [latvia_pulse] Age: 620s
+2026-04-01 05:28:06,701 [Monitor ] [DEBUG] STALE Check: [gmail_pulse] Age: 624s
+2026-04-01 05:28:51,701 [IMAP    ] [INFO] --- Starting IMAP Check Cycle ---
+2026-04-01 05:28:56,066 [Monitor ] [DEBUG] STALE Check: [latvia_pulse] Age: 669s
+2026-04-01 05:28:56,066 [Monitor ] [DEBUG] STALE Check: [gmail_pulse] Age: 674s
+2026-04-01 05:29:41,066 [IMAP    ] [INFO] --- Starting IMAP Check Cycle ---
+2026-04-01 05:29:45,420 [Monitor ] [DEBUG] STALE Check: [latvia_pulse] Age: 718s
+2026-04-01 05:29:45,420 [Monitor ] [DEBUG] STALE Check: [gmail_pulse] Age: 723s
+2026-04-01 05:30:30,420 [IMAP    ] [INFO] --- Starting IMAP Check Cycle ---
+2026-04-01 05:30:34,447 [Monitor ] [DEBUG] STALE Check: [latvia_pulse] Age: 767s
+2026-04-01 05:30:34,447 [Monitor ] [DEBUG] STALE Check: [gmail_pulse] Age: 772s
+2026-04-01 05:30:34,447 [Monitor ] [WARNING] Account [latvia_pulse] 3m silence reached.
+2026-04-01 05:30:34,447 [Monitor ] [WARNING] Account [gmail_pulse] 3m silence reached.
+2026-04-01 05:31:19,448 [IMAP    ] [INFO] --- Starting IMAP Check Cycle ---
+2026-04-01 05:31:24,169 [Monitor ] [DEBUG] STALE Check: [latvia_pulse] Age: 817s
+2026-04-01 05:31:24,169 [Monitor ] [DEBUG] STALE Check: [gmail_pulse] Age: 822s
+2026-04-01 05:32:09,170 [IMAP    ] [INFO] --- Starting IMAP Check Cycle ---
+2026-04-01 05:32:13,422 [Monitor ] [DEBUG] STALE Check: [latvia_pulse] Age: 866s
+2026-04-01 05:32:13,422 [Monitor ] [DEBUG] STALE Check: [gmail_pulse] Age: 871s
+2026-04-01 05:32:58,422 [IMAP    ] [INFO] --- Starting IMAP Check Cycle ---
+2026-04-01 05:33:02,459 [Monitor ] [DEBUG] STALE Check: [latvia_pulse] Age: 915s
+2026-04-01 05:33:02,460 [Monitor ] [DEBUG] STALE Check: [gmail_pulse] Age: 920s
+2026-04-01 05:33:47,460 [IMAP    ] [INFO] --- Starting IMAP Check Cycle ---
+2026-04-01 05:33:51,617 [Monitor ] [DEBUG] STALE Check: [latvia_pulse] Age: 964s
+2026-04-01 05:33:51,617 [Monitor ] [DEBUG] STALE Check: [gmail_pulse] Age: 969s
+2026-04-01 05:33:51,618 [Monitor ] [ERROR] Account [latvia_pulse] 6m silence reached.
+2026-04-01 05:33:51,618 [Monitor ] [ERROR] Account [gmail_pulse] 6m silence reached.
+2026-04-01 05:34:36,618 [IMAP    ] [INFO] --- Starting IMAP Check Cycle ---
+2026-04-01 05:34:40,735 [Monitor ] [DEBUG] STALE Check: [latvia_pulse] Age: 1014s
+2026-04-01 05:34:40,736 [Monitor ] [DEBUG] STALE Check: [gmail_pulse] Age: 1018s
+2026-04-01 05:35:25,736 [IMAP    ] [INFO] --- Starting IMAP Check Cycle ---
+2026-04-01 05:35:29,901 [Monitor ] [DEBUG] STALE Check: [latvia_pulse] Age: 1063s
+2026-04-01 05:35:29,901 [Monitor ] [DEBUG] STALE Check: [gmail_pulse] Age: 1067s
+2026-04-01 05:36:14,901 [IMAP    ] [INFO] --- Starting IMAP Check Cycle ---
+2026-04-01 05:36:19,169 [Monitor ] [DEBUG] STALE Check: [latvia_pulse] Age: 1112s
+2026-04-01 05:36:19,169 [Monitor ] [DEBUG] STALE Check: [gmail_pulse] Age: 1117s
+2026-04-01 05:36:19,169 [Monitor ] [CRITICAL] Account [latvia_pulse] 9m silence reached.
+2026-04-01 05:36:19,170 [Monitor ] [CRITICAL] Account [gmail_pulse] 9m silence reached.
+2026-04-01 05:37:04,170 [IMAP    ] [INFO] --- Starting IMAP Check Cycle ---
+2026-04-01 05:37:08,442 [Monitor ] [DEBUG] STALE Check: [latvia_pulse] Age: 1161s
+2026-04-01 05:37:08,443 [Monitor ] [DEBUG] STALE Check: [gmail_pulse] Age: 1166s
+2026-04-01 05:37:53,443 [IMAP    ] [INFO] --- Starting IMAP Check Cycle ---
+2026-04-01 05:37:58,367 [Monitor ] [DEBUG] STALE Check: [latvia_pulse] Age: 1211s
+2026-04-01 05:37:58,367 [Monitor ] [DEBUG] STALE Check: [gmail_pulse] Age: 1216s
+2026-04-01 05:38:43,368 [IMAP    ] [INFO] --- Starting IMAP Check Cycle ---
+2026-04-01 05:38:47,896 [Monitor ] [DEBUG] STALE Check: [latvia_pulse] Age: 1261s
+2026-04-01 05:38:47,896 [Monitor ] [DEBUG] STALE Check: [gmail_pulse] Age: 1265s
+2026-04-01 05:39:32,896 [IMAP    ] [INFO] --- Starting IMAP Check Cycle ---
+2026-04-01 05:39:37,432 [Monitor ] [DEBUG] STALE Check: [latvia_pulse] Age: 1310s
+2026-04-01 05:39:37,432 [Monitor ] [DEBUG] STALE Check: [gmail_pulse] Age: 1315s
+2026-04-01 05:40:22,432 [IMAP    ] [INFO] --- Starting IMAP Check Cycle ---
+2026-04-01 05:40:26,599 [Monitor ] [DEBUG] STALE Check: [latvia_pulse] Age: 1359s
+2026-04-01 05:40:26,599 [Monitor ] [DEBUG] STALE Check: [gmail_pulse] Age: 1364s
+2026-04-01 05:41:11,599 [IMAP    ] [INFO] --- Starting IMAP Check Cycle ---
+2026-04-01 05:41:16,815 [Monitor ] [DEBUG] STALE Check: [latvia_pulse] Age: 1410s
+2026-04-01 05:41:16,815 [Monitor ] [DEBUG] STALE Check: [gmail_pulse] Age: 1414s
+2026-04-01 05:42:01,815 [IMAP    ] [INFO] --- Starting IMAP Check Cycle ---
+2026-04-01 05:42:05,734 [Monitor ] [DEBUG] STALE Check: [latvia_pulse] Age: 1459s
+2026-04-01 05:42:05,734 [Monitor ] [DEBUG] STALE Check: [gmail_pulse] Age: 1463s
+2026-04-01 05:42:50,734 [IMAP    ] [INFO] --- Starting IMAP Check Cycle ---
+2026-04-01 05:42:54,866 [Monitor ] [DEBUG] STALE Check: [latvia_pulse] Age: 1508s
+2026-04-01 05:42:54,866 [Monitor ] [DEBUG] STALE Check: [gmail_pulse] Age: 1512s
+2026-04-01 05:43:39,866 [IMAP    ] [INFO] --- Starting IMAP Check Cycle ---
+2026-04-01 05:43:43,806 [Monitor ] [DEBUG] STALE Check: [latvia_pulse] Age: 1557s
+2026-04-01 05:43:43,806 [Monitor ] [DEBUG] STALE Check: [gmail_pulse] Age: 1561s
+2026-04-01 05:44:28,806 [IMAP    ] [INFO] --- Starting IMAP Check Cycle ---
+2026-04-01 05:44:37,344 [Monitor ] [DEBUG] STALE Check: [latvia_pulse] Age: 1610s
+2026-04-01 05:44:37,344 [Monitor ] [DEBUG] STALE Check: [gmail_pulse] Age: 1615s
+2026-04-01 05:45:22,344 [IMAP    ] [INFO] --- Starting IMAP Check Cycle ---
+2026-04-01 05:45:26,488 [Monitor ] [DEBUG] STALE Check: [latvia_pulse] Age: 1659s
+2026-04-01 05:45:26,488 [Monitor ] [DEBUG] STALE Check: [gmail_pulse] Age: 1664s
+2026-04-01 05:46:11,489 [IMAP    ] [INFO] --- Starting IMAP Check Cycle ---
+2026-04-01 05:46:16,081 [Monitor ] [DEBUG] STALE Check: [latvia_pulse] Age: 1709s
+2026-04-01 05:46:16,081 [Monitor ] [DEBUG] STALE Check: [gmail_pulse] Age: 1714s
+2026-04-01 05:47:01,082 [IMAP    ] [INFO] --- Starting IMAP Check Cycle ---
+2026-04-01 05:47:05,160 [Monitor ] [DEBUG] STALE Check: [latvia_pulse] Age: 1758s
+2026-04-01 05:47:05,160 [Monitor ] [DEBUG] STALE Check: [gmail_pulse] Age: 1763s
+2026-04-01 05:47:50,160 [IMAP    ] [INFO] --- Starting IMAP Check Cycle ---
+2026-04-01 05:47:54,232 [Monitor ] [DEBUG] STALE Check: [latvia_pulse] Age: 1807s
+2026-04-01 05:47:54,233 [Monitor ] [DEBUG] STALE Check: [gmail_pulse] Age: 1812s
+2026-04-01 05:48:39,233 [IMAP    ] [INFO] --- Starting IMAP Check Cycle ---
+2026-04-01 05:48:43,447 [Monitor ] [DEBUG] STALE Check: [latvia_pulse] Age: 1856s
+2026-04-01 05:48:43,447 [Monitor ] [DEBUG] STALE Check: [gmail_pulse] Age: 1861s
+2026-04-01 05:49:28,447 [IMAP    ] [INFO] --- Starting IMAP Check Cycle ---
+2026-04-01 05:49:32,507 [Monitor ] [DEBUG] STALE Check: [latvia_pulse] Age: 1905s
+2026-04-01 05:49:32,507 [Monitor ] [DEBUG] STALE Check: [gmail_pulse] Age: 1910s
+2026-04-01 05:50:17,507 [IMAP    ] [INFO] --- Starting IMAP Check Cycle ---
+2026-04-01 05:50:22,112 [Monitor ] [DEBUG] STALE Check: [latvia_pulse] Age: 1955s
+2026-04-01 05:50:22,112 [Monitor ] [DEBUG] STALE Check: [gmail_pulse] Age: 1960s
+2026-04-01 05:51:07,112 [IMAP    ] [INFO] --- Starting IMAP Check Cycle ---
+2026-04-01 05:51:11,007 [Monitor ] [DEBUG] STALE Check: [latvia_pulse] Age: 2004s
+2026-04-01 05:51:11,007 [Monitor ] [DEBUG] STALE Check: [gmail_pulse] Age: 2009s
+2026-04-01 05:51:56,007 [IMAP    ] [INFO] --- Starting IMAP Check Cycle ---
+2026-04-01 05:52:00,237 [Monitor ] [DEBUG] STALE Check: [latvia_pulse] Age: 2053s
+2026-04-01 05:52:00,237 [Monitor ] [DEBUG] STALE Check: [gmail_pulse] Age: 2058s
+2026-04-01 05:52:45,238 [IMAP    ] [INFO] --- Starting IMAP Check Cycle ---
+2026-04-01 05:52:50,335 [Monitor ] [DEBUG] STALE Check: [latvia_pulse] Age: 2103s
+2026-04-01 05:52:50,335 [Monitor ] [DEBUG] STALE Check: [gmail_pulse] Age: 2108s
+2026-04-01 05:53:35,335 [IMAP    ] [INFO] --- Starting IMAP Check Cycle ---
+2026-04-01 05:53:39,620 [Monitor ] [DEBUG] STALE Check: [latvia_pulse] Age: 2152s
+2026-04-01 05:53:39,620 [Monitor ] [DEBUG] STALE Check: [gmail_pulse] Age: 2157s
+2026-04-01 05:54:24,620 [IMAP    ] [INFO] --- Starting IMAP Check Cycle ---
+2026-04-01 05:54:27,794 [IMAP    ] [INFO] [gmail_pulse] Received 1 new pulse(s).
+2026-04-01 05:54:27,794 [IMAP    ] [INFO] Heartbeat updated for gmail_pulse
+2026-04-01 05:54:31,971 [IMAP    ] [INFO] [latvia_pulse] Received 1 new pulse(s).
+2026-04-01 05:54:31,972 [IMAP    ] [INFO] Heartbeat updated for latvia_pulse
+2026-04-01 05:54:32,753 [Monitor ] [INFO] STATUS OK: [latvia_pulse] active. Age: 0s
+2026-04-01 05:54:32,753 [Monitor ] [INFO] STATUS OK: [gmail_pulse] active. Age: 4s
+2026-04-01 05:54:32,753 [Monitor ] [INFO] RECOVERY: Account [latvia_pulse] pulse detected.
+2026-04-01 05:54:32,753 [Monitor ] [INFO] RECOVERY: Account [gmail_pulse] pulse detected.
+2026-04-01 05:55:17,754 [IMAP    ] [INFO] --- Starting IMAP Check Cycle ---
+2026-04-01 05:55:22,135 [Monitor ] [INFO] STATUS OK: [latvia_pulse] active. Age: 50s
+2026-04-01 05:55:22,135 [Monitor ] [INFO] STATUS OK: [gmail_pulse] active. Age: 54s
+2026-04-01 05:56:07,135 [IMAP    ] [INFO] --- Starting IMAP Check Cycle ---
+2026-04-01 05:56:11,299 [Monitor ] [INFO] STATUS OK: [latvia_pulse] active. Age: 99s
+2026-04-01 05:56:11,299 [Monitor ] [INFO] STATUS OK: [gmail_pulse] active. Age: 103s
+2026-04-01 05:56:56,300 [IMAP    ] [INFO] --- Starting IMAP Check Cycle ---
+2026-04-01 05:57:00,636 [Monitor ] [INFO] STATUS OK: [latvia_pulse] active. Age: 148s
+2026-04-01 05:57:00,636 [Monitor ] [INFO] STATUS OK: [gmail_pulse] active. Age: 152s
+2026-04-01 05:57:45,636 [IMAP    ] [INFO] --- Starting IMAP Check Cycle ---
+2026-04-01 05:57:50,601 [Monitor ] [INFO] STATUS OK: [latvia_pulse] active. Age: 198s
+2026-04-01 05:57:50,601 [Monitor ] [INFO] STATUS OK: [gmail_pulse] active. Age: 202s
+2026-04-01 05:58:35,601 [IMAP    ] [INFO] --- Starting IMAP Check Cycle ---
+2026-04-01 05:58:39,722 [Monitor ] [INFO] STATUS OK: [latvia_pulse] active. Age: 247s
+2026-04-01 05:58:39,723 [Monitor ] [INFO] STATUS OK: [gmail_pulse] active. Age: 251s
+2026-04-01 05:59:24,723 [IMAP    ] [INFO] --- Starting IMAP Check Cycle ---
+2026-04-01 05:59:28,712 [Monitor ] [INFO] STATUS OK: [latvia_pulse] active. Age: 296s
+2026-04-01 05:59:28,712 [Monitor ] [INFO] STATUS OK: [gmail_pulse] active. Age: 300s
+2026-04-01 06:00:13,712 [IMAP    ] [INFO] --- Starting IMAP Check Cycle ---
+2026-04-01 06:00:22,965 [Monitor ] [INFO] STATUS OK: [latvia_pulse] active. Age: 350s
+2026-04-01 06:00:22,965 [Monitor ] [INFO] STATUS OK: [gmail_pulse] active. Age: 355s
+2026-04-01 06:01:07,966 [IMAP    ] [INFO] --- Starting IMAP Check Cycle ---
+2026-04-01 06:01:12,152 [Monitor ] [INFO] STATUS OK: [latvia_pulse] active. Age: 400s
+2026-04-01 06:01:12,153 [Monitor ] [INFO] STATUS OK: [gmail_pulse] active. Age: 404s
+2026-04-01 06:01:57,153 [IMAP    ] [INFO] --- Starting IMAP Check Cycle ---
+2026-04-01 06:02:01,138 [Monitor ] [INFO] STATUS OK: [latvia_pulse] active. Age: 449s
+2026-04-01 06:02:01,138 [Monitor ] [INFO] STATUS OK: [gmail_pulse] active. Age: 453s
+2026-04-01 06:02:46,138 [IMAP    ] [INFO] --- Starting IMAP Check Cycle ---
+2026-04-01 06:02:50,433 [Monitor ] [INFO] STATUS OK: [latvia_pulse] active. Age: 498s
+2026-04-01 06:02:50,433 [Monitor ] [INFO] STATUS OK: [gmail_pulse] active. Age: 502s
+2026-04-01 06:03:35,433 [IMAP    ] [INFO] --- Starting IMAP Check Cycle ---
+2026-04-01 06:03:39,437 [Monitor ] [INFO] STATUS OK: [latvia_pulse] active. Age: 547s
+2026-04-01 06:03:39,437 [Monitor ] [INFO] STATUS OK: [gmail_pulse] active. Age: 551s
+2026-04-01 06:04:24,438 [IMAP    ] [INFO] --- Starting IMAP Check Cycle ---
+2026-04-01 06:04:28,921 [Monitor ] [INFO] STATUS OK: [latvia_pulse] active. Age: 596s
+2026-04-01 06:04:28,922 [Monitor ] [DEBUG] STALE Check: [gmail_pulse] Age: 601s
+2026-04-01 06:05:13,922 [IMAP    ] [INFO] --- Starting IMAP Check Cycle ---
+2026-04-01 06:05:18,251 [Monitor ] [DEBUG] STALE Check: [latvia_pulse] Age: 646s
+2026-04-01 06:05:18,251 [Monitor ] [DEBUG] STALE Check: [gmail_pulse] Age: 650s
+2026-04-01 06:06:03,251 [IMAP    ] [INFO] --- Starting IMAP Check Cycle ---
+2026-04-01 06:06:07,327 [Monitor ] [DEBUG] STALE Check: [latvia_pulse] Age: 695s
+2026-04-01 06:06:07,328 [Monitor ] [DEBUG] STALE Check: [gmail_pulse] Age: 699s
+2026-04-01 06:06:52,328 [IMAP    ] [INFO] --- Starting IMAP Check Cycle ---
+2026-04-01 06:06:56,332 [Monitor ] [DEBUG] STALE Check: [latvia_pulse] Age: 744s
+2026-04-01 06:06:56,332 [Monitor ] [DEBUG] STALE Check: [gmail_pulse] Age: 748s
+2026-04-01 06:06:56,333 [Monitor ] [WARNING] Account [gmail_pulse] 3m silence reached.
+2026-04-01 06:07:41,333 [IMAP    ] [INFO] --- Starting IMAP Check Cycle ---
+2026-04-01 06:07:45,513 [Monitor ] [DEBUG] STALE Check: [latvia_pulse] Age: 793s
+2026-04-01 06:07:45,513 [Monitor ] [DEBUG] STALE Check: [gmail_pulse] Age: 797s
+2026-04-01 06:07:45,513 [Monitor ] [WARNING] Account [latvia_pulse] 3m silence reached.
+2026-04-01 06:08:30,513 [IMAP    ] [INFO] --- Starting IMAP Check Cycle ---
+2026-04-01 06:08:34,696 [Monitor ] [DEBUG] STALE Check: [latvia_pulse] Age: 842s
+2026-04-01 06:08:34,696 [Monitor ] [DEBUG] STALE Check: [gmail_pulse] Age: 846s
+2026-04-01 06:09:19,696 [IMAP    ] [INFO] --- Starting IMAP Check Cycle ---
+2026-04-01 06:09:23,858 [Monitor ] [DEBUG] STALE Check: [latvia_pulse] Age: 891s
+2026-04-01 06:09:23,858 [Monitor ] [DEBUG] STALE Check: [gmail_pulse] Age: 896s
+2026-04-01 06:10:08,859 [IMAP    ] [INFO] --- Starting IMAP Check Cycle ---
+2026-04-01 06:10:13,170 [Monitor ] [DEBUG] STALE Check: [latvia_pulse] Age: 941s
+2026-04-01 06:10:13,170 [Monitor ] [DEBUG] STALE Check: [gmail_pulse] Age: 945s
+2026-04-01 06:10:13,170 [Monitor ] [ERROR] Account [gmail_pulse] 6m silence reached.
+2026-04-01 06:10:58,171 [IMAP    ] [INFO] --- Starting IMAP Check Cycle ---
+2026-04-01 06:11:02,725 [Monitor ] [DEBUG] STALE Check: [latvia_pulse] Age: 990s
+2026-04-01 06:11:02,725 [Monitor ] [DEBUG] STALE Check: [gmail_pulse] Age: 994s
+2026-04-01 06:11:02,725 [Monitor ] [ERROR] Account [latvia_pulse] 6m silence reached.
+2026-04-01 06:11:47,725 [IMAP    ] [INFO] --- Starting IMAP Check Cycle ---
+2026-04-01 06:11:52,256 [Monitor ] [DEBUG] STALE Check: [latvia_pulse] Age: 1040s
+2026-04-01 06:11:52,257 [Monitor ] [DEBUG] STALE Check: [gmail_pulse] Age: 1044s
+2026-04-01 06:12:37,257 [IMAP    ] [INFO] --- Starting IMAP Check Cycle ---
+2026-04-01 06:12:41,483 [Monitor ] [DEBUG] STALE Check: [latvia_pulse] Age: 1089s
+2026-04-01 06:12:41,484 [Monitor ] [DEBUG] STALE Check: [gmail_pulse] Age: 1093s
+2026-04-01 06:12:41,484 [Monitor ] [CRITICAL] Account [gmail_pulse] 9m silence reached.
+2026-04-01 06:13:26,484 [IMAP    ] [INFO] --- Starting IMAP Check Cycle ---
+2026-04-01 06:13:30,774 [Monitor ] [DEBUG] STALE Check: [latvia_pulse] Age: 1138s
+2026-04-01 06:13:30,774 [Monitor ] [DEBUG] STALE Check: [gmail_pulse] Age: 1142s
+2026-04-01 06:13:30,774 [Monitor ] [CRITICAL] Account [latvia_pulse] 9m silence reached.
+2026-04-01 06:14:15,775 [IMAP    ] [INFO] --- Starting IMAP Check Cycle ---
+2026-04-01 06:14:19,826 [Monitor ] [DEBUG] STALE Check: [latvia_pulse] Age: 1187s
+2026-04-01 06:14:19,826 [Monitor ] [DEBUG] STALE Check: [gmail_pulse] Age: 1192s
+2026-04-01 06:15:04,827 [IMAP    ] [INFO] --- Starting IMAP Check Cycle ---
+2026-04-01 06:15:09,391 [Monitor ] [DEBUG] STALE Check: [latvia_pulse] Age: 1237s
+2026-04-01 06:15:09,391 [Monitor ] [DEBUG] STALE Check: [gmail_pulse] Age: 1241s
+2026-04-01 06:15:54,392 [IMAP    ] [INFO] --- Starting IMAP Check Cycle ---
+2026-04-01 06:16:01,731 [Monitor ] [DEBUG] STALE Check: [latvia_pulse] Age: 1289s
+2026-04-01 06:16:01,732 [Monitor ] [DEBUG] STALE Check: [gmail_pulse] Age: 1293s
+2026-04-01 06:16:46,732 [IMAP    ] [INFO] --- Starting IMAP Check Cycle ---
+2026-04-01 06:16:50,960 [Monitor ] [DEBUG] STALE Check: [latvia_pulse] Age: 1338s
+2026-04-01 06:16:50,960 [Monitor ] [DEBUG] STALE Check: [gmail_pulse] Age: 1343s
+2026-04-01 06:17:35,960 [IMAP    ] [INFO] --- Starting IMAP Check Cycle ---
+2026-04-01 06:17:40,322 [Monitor ] [DEBUG] STALE Check: [latvia_pulse] Age: 1388s
+2026-04-01 06:17:40,322 [Monitor ] [DEBUG] STALE Check: [gmail_pulse] Age: 1392s
+2026-04-01 06:18:25,323 [IMAP    ] [INFO] --- Starting IMAP Check Cycle ---
+2026-04-01 06:18:29,485 [Monitor ] [DEBUG] STALE Check: [latvia_pulse] Age: 1437s
+2026-04-01 06:18:29,485 [Monitor ] [DEBUG] STALE Check: [gmail_pulse] Age: 1441s
+2026-04-01 06:19:14,486 [IMAP    ] [INFO] --- Starting IMAP Check Cycle ---
+2026-04-01 06:19:22,184 [Monitor ] [DEBUG] STALE Check: [latvia_pulse] Age: 1490s
+2026-04-01 06:19:22,184 [Monitor ] [DEBUG] STALE Check: [gmail_pulse] Age: 1494s
