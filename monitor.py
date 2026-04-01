@@ -12,16 +12,16 @@ ACCOUNTS = [
     {
         "name": "gmail_pulse",
         "host": "imap.gmail.com",
-        "user": "mail.okasion@gmail.com",
-        "pass": "pckhqrptlpafmdub",
-        "sender": "anokasion@outlook.com"
+        "user": "mailx@gmail.com",
+        "pass": "abcdefgh",
+        "sender": "alert@pipe.com"
     },
     {
         "name": "latvia_pulse",
         "host": "mail.inbox.lv",
-        "user": "okasion@inbox.lv",
-        "pass": "8wqEDZ9D9s",
-        "sender": "anokasion@outlook.com"
+        "user": "mailx@inbox.lv",
+        "pass": "abcdegh",
+        "sender": "alert@pipe.com"
     }
 ]
 
