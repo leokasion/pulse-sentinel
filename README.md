@@ -62,10 +62,11 @@ sudo systemctl start pulse-sentinel
 
 ### 🧠 How the Logic Works (The 3/6/9 Protocol)
 
-If you are new to the Sentinel, the logic is broken down into two simple stages that repeat every 45 seconds.
-Stage 1: The Pulse Check
+If you are new to the Sentinel, the logic is broken down into two simple stages that repeat every 45 seconds.\
 
-The script connects to your email accounts and looks for new "Pulse" emails. If it finds one, it updates a local "Heartbeat" file with the current time. This is the Proof of Life.
+Stage 1: The Pulse Check
+The script connects to your email accounts (can be 1 or 15), and looks for new "Pulse" emails (emails that have come from a particular mail direction). If it finds one, it updates a local "Heartbeat" file with the current time. This is the Proof of Life.\
+
 Stage 2: The Escalation Ladder
 
 The Sentinel calculates the "Age" of that heartbeat (Current Time minus Last Heartbeat). If the age exceeds your threshold (e.g., 10 minutes), it begins climbing the ladder:
